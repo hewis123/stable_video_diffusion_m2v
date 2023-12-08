@@ -1,0 +1,2 @@
+# stable_video_diffusion_m2v
+stable_video_diffusion_m2v
